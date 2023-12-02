@@ -1,0 +1,11 @@
+housing,30
+insurance,20
+food,15
+grocery,10
+savings,20
+transportation,7
+personal,10
+recreation,10
+utilities,10
+giving,2
+charity,2
